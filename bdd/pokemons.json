@@ -1,0 +1,46 @@
+{ 
+    "_id" : ObjectId("5a91cc0c1d2f6ac1929e0b17"), 
+    "name" : "Bulbizarre", 
+    "number" : 1.0, 
+    "description" : "Bulbizarre passe son temps à faire la sieste sous le soleil. Il y a une graine sur son dos. Il absorbe les rayons du soleil pour faire doucement pousser la graine.", 
+    "types" : [
+        ObjectId("5a92c0101d2f6ac1929e0b23"), 
+        ObjectId("5a92c0891d2f6ac1929e0b2b")
+    ], 
+    "picture" : "ab2f1510b1f4c662ca6d78d008d504b9"
+}
+{ 
+    "_id" : ObjectId("5a92bcff1d2f6ac1929e0b19"), 
+    "name" : "Herbizarre", 
+    "number" : 2.0, 
+    "description" : "Un bourgeon a poussé sur le dos de ce Pokémon. Pour en supporter le poids, Herbizarre a dû se muscler les pattes. Lorsqu'il commence à se prélasser au soleil, ça signifie que son bourgeon va éclore, donnant naissance à une fleur.", 
+    "picture" : "317e71e277cbab5c5ad9e06a2e3740bc", 
+    "__v" : NumberInt(1), 
+    "types" : [
+        ObjectId("5a92c0101d2f6ac1929e0b23"), 
+        ObjectId("5a92c0891d2f6ac1929e0b2b")
+    ]
+}
+{ 
+    "_id" : ObjectId("5a92cf7124b013c2a54b40e9"), 
+    "types" : [
+        ObjectId("5a92bfd91d2f6ac1929e0b1e")
+    ], 
+    "name" : "Carapuce", 
+    "description" : "La carapace de Carapuce ne sert pas qu'à le protéger. La forme ronde de sa carapace et ses rainures lui permettent d'améliorer son hydrodynamisme. Ce Pokémon nage extrêmement vite.", 
+    "number" : NumberInt(7), 
+    "__v" : NumberInt(0), 
+    "picture" : "a35beb3d092a7a924473edcfe993a2fe"
+}
+{ 
+    "_id" : ObjectId("5a92d07eae48a4c2b3323077"), 
+    "types" : [
+        ObjectId("5a92c0101d2f6ac1929e0b23"), 
+        ObjectId("5a92c0891d2f6ac1929e0b2b")
+    ], 
+    "name" : "Florizarre", 
+    "description" : "Une belle fleur se trouve sur le dos de Florizarre. Elle prend une couleur vive lorsqu'elle est bien nourrie et bien ensoleillée. Le parfum de cette fleur peut apaiser les gens.", 
+    "number" : NumberInt(3), 
+    "picture" : "19cdf500304b0742d33fbca15991f011", 
+    "__v" : NumberInt(0)
+}

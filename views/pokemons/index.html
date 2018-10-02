@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block content%}
+
+	<h2>Pokemons</h2>
+	<a href="/new" class="badge badge-primary">Ajouter un pokémon</a>
+	<hr>
+	{% for p in pokemons %}
+		<div class="card">
+			<div class="card-header">
+				<a href="/{{p._id}}">{{p.name}}</a>
+			</div>
+			<div class="card-body">
+				{{p.description}}
+			</div>
+		</div>
+	{% endfor %}
+
+{% endblock %}

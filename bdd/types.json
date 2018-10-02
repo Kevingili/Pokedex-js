@@ -1,0 +1,25 @@
+{ 
+    "_id" : ObjectId("5a92bfd91d2f6ac1929e0b1e"), 
+    "name" : "Eau", 
+    "color" : "blue"
+}
+{ 
+    "_id" : ObjectId("5a92c0051d2f6ac1929e0b1f"), 
+    "name" : "Feu", 
+    "color" : "red"
+}
+{ 
+    "_id" : ObjectId("5a92c0101d2f6ac1929e0b23"), 
+    "name" : "Poison", 
+    "color" : "purple"
+}
+{ 
+    "_id" : ObjectId("5a92c06a1d2f6ac1929e0b27"), 
+    "name" : "Electrique", 
+    "color" : "yellow"
+}
+{ 
+    "_id" : ObjectId("5a92c0891d2f6ac1929e0b2b"), 
+    "name" : "Plante", 
+    "color" : "green"
+}
